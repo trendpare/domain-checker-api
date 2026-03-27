@@ -1,56 +1,33 @@
-# 🚀 Domain Availability Checker API
+---
 
-A lightweight PHP-based API to check domain availability across multiple extensions.
+## 🌐 About Trendpare
 
-## 🔧 Features
-- Check multiple domain extensions (com, net, org)
-- Fast DNS-based validation
-- Simple and clean API structure
-- Easy to integrate into any project
+Trendpare focuses on building practical, real-world web solutions for developers, businesses, and hosting environments.
 
-## 📌 Usage
+Instead of complex and over-engineered systems, the goal is to create tools that are:
+- Simple to understand and easy to use
+- Scalable for real-world needs
+- Lightweight and performance-oriented
+- Built with clean and maintainable logic
 
-Make a GET request:
+The projects shared here are not just experiments — they are designed to solve actual problems and can be used, extended, or integrated into real systems.
 
+### 💡 What You’ll Find
+- Hosting and domain-related tools
+- Automation scripts and APIs
+- Lightweight management systems
+- Developer-focused utilities
 
+### 🎯 Approach
+Every project follows a clear philosophy:
+- Keep it simple
+- Make it useful
+- Build for real scenarios
 
-/index.php?key=YOUR_API_KEY&domain=example
+### 🚀 Ongoing Work
+This is an active development space.  
+New tools, improvements, and more advanced systems will continue to be added.
 
+---
 
-
-## ⚙️ Example Response
-
-```json
-[
-  {
-    "domain": "example.com",
-    "available": false
-  },
-  {
-    "domain": "example.net",
-    "available": true
-  },
-  {
-    "domain": "example.org",
-    "available": true
-  }
-]
-
-
-🧠 How It Works
-
-This API checks DNS records using PHP's checkdnsrr() function.
-If no DNS record is found, the domain is considered available.
-
-⚙️ Installation
-Clone the repository
-Set your API key in config.php
-Upload files to your server
-Start making requests
-🔐 Security
-Basic API key protection included
-Can be extended with rate limiting
-🚀 Future Improvements
-More domain extensions
-Whois integration
-Caching system
+🌐 https://trendpare.com
