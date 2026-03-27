@@ -1,5 +1,3 @@
----
-
 ## 🌐 About Trendpare
 
 Trendpare focuses on building practical, real-world web solutions for developers, businesses, and hosting environments.
@@ -27,7 +25,3 @@ Every project follows a clear philosophy:
 ### 🚀 Ongoing Work
 This is an active development space.  
 New tools, improvements, and more advanced systems will continue to be added.
-
----
-
-🌐 https://trendpare.com
